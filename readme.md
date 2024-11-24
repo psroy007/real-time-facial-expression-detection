@@ -71,4 +71,4 @@ To stop the webcam feed, press the 'q' key.
 ## Installation
 To set up and run the project locally, follow the steps below:
 
-            git clone https://github.com/psroy007/medi-aid-prototype.git
+            git clone https://github.com/psroy007//real-time-facial-expression-detection.git
