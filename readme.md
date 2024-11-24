@@ -44,7 +44,7 @@ To train the facial expression detection model, run the train.py script. This sc
 ## Running the Training Script
 Execute the following command to start training:
 
-                python train.py
+                      python train.py
 
 The training process will:
 
