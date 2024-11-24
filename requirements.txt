@@ -1,0 +1,4 @@
+TensorFlow      # Deep learning framework for model training and inference.
+OpenCV          # Computer vision library for real-time face detection.
+Pyttsx3         # Text-to-speech engine for providing verbal feedback.
+NumPy           # Numerical computation library for image processing.
